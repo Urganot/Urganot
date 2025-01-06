@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1950" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1657" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    90.2k added, 420 removed
+                                    549k added, 52.4k removed
                                 </div>
                             </section>
                             <section>
@@ -2540,6 +2540,27 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by wing328 in <span class="repo">OpenAPITools/openapi-generator</span></div>
+                                    <div class="comment">I know what happens here.
+Because there is no version in the csproj file, it tries to use the lowest possible. this obviously doesnt work.
+In this case this is the correct behaviour though. when using centralized version management, you need to have a Directory.Packages.props file in your solution folder. in there you set the version of your packages. Without this file, it will fail. The problem is that generating this file into the generated project would defeat the purpose of this change because I want to control my versions from my non generated solution.
+When using optout, it will put in the package versions. that is why it work in that case
+I am not sure how this should be handled.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#20401 [ASPNETCORE] Add support for central package version management</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by wing328 in <span class="repo">OpenAPITools/openapi-generator</span></div>
                                     <div class="comment">I fixed it and opened up a new pr https://github.com/OpenAPITools/openapi-generator/pull/20403 #20403</div>
                                 </div>
                             </section>
@@ -2601,233 +2622,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 95 commits in
-                                        <span class="repo">Urganot/openapi-generator</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#71ccc88</div>
-                                        <div class="message">[Kotlin] fix #20231,  OkHttp client can handle a field with a list of files (#20232)
-
-* feat(issue-20231): Kotlin okhttp client handles correctly fields that are optional with multiple files.
-
-* docs(issue-20231): add docstrings
-
-* feat(issue-20231): Remove unnecessary test spec</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0183620</div>
-                                        <div class="message">[cpprestsdk] Implement Enum inside Objects (#19919)
-
-* Fix #19566 implemented the missing definition of declared methods inside openapi-generator/modules/openapi-generator/src/main/resources/cpp-rest-sdk-client/modelbase-header.mustache, have also be added two missing body of methods definitions
-
-* Regenerated cpp-restsdk client samples
-
-* Fixed shared_ptr creation
-
-* [cpprestsdk] Implement enum inside objects</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a6dbac</div>
-                                        <div class="message">[elixir] Update dialyzer spec (#20024)
-
-* Update evaluate_response spec to support returning a list of structs
-
-* Update elixir samples</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e131d52</div>
-                                        <div class="message">[kotlin-spring] Handle arrays of files correctly using MultipartFile (#20108)
-
-* [kotlin-spring] Fix no List being used for an array of files using multipart/form-data
-
-* [kotlin-spring] Use Spring's MultipartFile class for incoming Files instead of Spring's Resource class.
-
-* [kotlin-spring] Add test to ensure that return type for files is `org.springframework.core.io.Resource`
-
-* [kotlin-spring] Ensure Array is used for lists of files in generated Api class
-
-* Update samples
-
-* [kotlin-spring] Move conditional usage of MultipartFile to optionalDataType.mustache. Update samples
-
-* update samples
-
----------
-
-Co-authored-by: William Cheng &lt;wing328hk@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3d172a</div>
-                                        <div class="message">use elixir petstore spec for testing (#20236)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24cb797</div>
-                                        <div class="message">update link to join the Slack channel</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#423ba67</div>
-                                        <div class="message">feat(typescript-angular): add support for Angular V19 (#20205)
-
-* feat(typescript-angular): add support for Angular V19
-
-fix #20204
-
-* feat(typescript-angular): add options to override angular deps + refactor deps definition
-
-add tsVersion, rxjsVersion, ngPackagrVersion and zonejsVersion options to override default config if new version of Angular is available but not yet implemented in openapi-generator
-refactor Angular dependencies definition in separate readable yaml config file
-
-fix #20204
-
-* feat(typescript-angular): add better angular 19 exemple for ci testing
-
-fix #20204
-
-* feat(typescript-angular): unify tsVersion param
-
-fix #20204
-
----------
-
-Co-authored-by: Thibaud SOWA &lt;thibaud.sowa@equasens.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf78f10</div>
-                                        <div class="message">Fix dangerous destructuration in typescript-nestjs services (#20157)
-
-* refactor: remove requestParameters destructuration
-
-* feat: add reserved param names sample
-
-* feat: quote params
-
-* feat: improve with reservedWords
-
-* feat: use vendorExtensions instead of extending CodegenParameter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26609e9</div>
-                                        <div class="message">fix: register gson CustomTypeAdapterFactory in kotlin-client if generateOneOfAnyOfWrappers enabled (#20217)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25d780e</div>
-                                        <div class="message">update python multipart dep to 0.0.18 (#20225)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9f6fe6</div>
-                                        <div class="message">[Java] [Microprofile] Add Json-B polymorphism type info annotations (#20164)
-
-* [Microprofile] Add Json-B polymorphism annotations
-
-* [Microprofile] Set openApiNullable in configs to false
-
-* [Microprofile] Bump JSON Bind version to 3.0
-
-* [Microprofile] Only apply JSON-B polymorphism for MP 3.0
-
-* Update samples
-
-* [Microprofile] Update documentation/configs for openApiNullable
-
-* Update docs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06f0b68</div>
-                                        <div class="message">fix(typescript): remove incorrect file extensions (#20194)
-
-* fix(typescript): remove incorrect file extensions
-
-url, http, and https are Node.js core modules, and form-data
-should be loaded using a bare specifier. This commit removes
-the file extensions from these imports.
-
-* update samples</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1eaa75b</div>
-                                        <div class="message">Fix python code when receiving JSON data without a property that is a dict to ref/enum causing AttributeError (#20022)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88be078</div>
-                                        <div class="message">Trim the input of operationId filter in OpenAPINormalizer (#20186) (#20189)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f6c3de</div>
-                                        <div class="message">Updated README.mustache template for the Erlang server generator (#20138)
-
-* Updated README.mustache file for the Erlang server generator. Fixed one error and updated the usage instructions
-
-Changes made to the Erlang server generator's user instructions ("README.mustache" file):
-
-1. Corrected the argument in section 4.1 of the user instructions.
-   In openapi_server:start/2, the second argument for the generated Erlang code must now be in a different format than proposed in the instructions (see lines 13-16 of the "server.mustache" file).
-   Initially, the server failed to start, and after some debugging, I discovered that the argument format did not match the server's expectations, causing the port number not to be passed to cowboy:start_clear/3. This has now been fixed.
-
-2. Reviewed and updated the text of the user instructions to remove any ambiguities.
-
-3. Tested the user instructions for accuracy and completeness.
-
-* erlang-server sample recompiled
-
-* README fix
-
-* Fixed README.mustache template markdown for erlang-server. Re-generated erlang-server sample.
-
-* Update README.mustache
-
-* Sample 'erlang-server' re-generated
-
-* update samples
-
----------
-
-Co-authored-by: William Cheng &lt;wing328hk@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#878148e</div>
-                                        <div class="message">update kotlin option description to clarify the support (#20211)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2aa4922</div>
-                                        <div class="message">Bugfix: #1666: Change requestBody argument name to 'body' (#20207)
-
-Since Connexion defaults to using 'body' as the argument name for the requestBody, the controller's argument name is adjusted accordingly.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#706c0a1</div>
-                                        <div class="message">fix: close quotes in cargo manifest (#20209)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#711e53a</div>
-                                        <div class="message">[Java] Add option to fallback to legacy enum naming (#20172)
-
-* add option to fallback legacy enum naming (java)
-
-* fix tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34bd021</div>
-                                        <div class="message">[rust][reqwest] support binary type for download (#20031)
-
-* [rust][reqwest] support binary type for upload and download
-
-* [rust][reqwest] support binary download in supportMultipleResponses contexts
-
-* [rust][reqwest] support binary responses that don't have any return type</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2851,7 +2645,7 @@ Since Connexion defaults to using 'body' as the argument name for the requestBod
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2025, 21:01:35 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2025, 22:01:31 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
